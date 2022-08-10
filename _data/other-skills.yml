@@ -3,5 +3,5 @@
   color: info
 
 - name: XP
-  percentage: 50
+  percentage: 50 
   color: success
