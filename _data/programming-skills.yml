@@ -2,10 +2,10 @@
   percentage: 90
   color: danger
 
-- name: Go
+- name: Javascript
   percentage: 80
-  color:
+  color: warning
 
-- name: Python
-  percentage: 70
+- name: React.js
+  percentage: 30
   color: secondary
