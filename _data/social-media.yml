@@ -2,16 +2,16 @@
 # Get Colors from : https://brandcolors.net/
 
 email:
-  url   : "divher566@gmail.com:"
+  url   : "mailto:"
   icon  : fas fa-envelope
   color : db4437
 
 github:
-  url   : https://github.com/Insheloots
+  url   : https://github.com/
   icon  : fab fa-github
   color : 333333
 
 linkedin:
-  url   : https://www.linkedin.com/in/diegodiazvelandia/
+  url   : https://www.linkedin.com/
   icon  : fab fa-linkedin-in
   color : 007bb5
